@@ -17,7 +17,7 @@ HIVE_TABLE_PARTITION = False
 HIVE_TABLE_PARTITION_NAME = "dt"
 HIVE_TABLE_PARTITION_TYPE = "STRING"
 
-###日志配置
+# ##日志配置
 LOG_DIR = "/tmp"
 LOG_FILE = "kafka2hive.log"
 LOG_LEVEL = 'INFO'
